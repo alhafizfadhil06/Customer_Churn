@@ -22,4 +22,4 @@ Customer churn dataset contains 20 column variables, such as:
 * number_customer_service_calls
 * churn
 
-&nbsp;&nbsp;I conducted EDA and data preprocessing in this analysis before modeling machine learning. A Classifier algorithm is used for the study of the dataset. I modeled three classifier algorithms: Support Vector Classifier, Decision Tree, and Random Forest. *Recall metrics* are used for the evaluation of the model. Based on the result, the Random Forest model has the best recall score, *82.17%*. In the future, this model can be improved again.
+&nbsp;&nbsp;I conducted EDA and data preprocessing in this analysis before modeling machine learning. A Classifier algorithm is used for the study of the dataset. I modeled three classifier algorithms: Support Vector Classifier, Decision Tree, and Random Forest. **Recall metrics** are used for the evaluation of the model. Based on the result, the Random Forest model has the best recall score, **82.17%**. In the future, this model can be improved again.
